@@ -336,6 +336,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://pub.pbkrs.com/files/202211/TNosrY77nCxm6rtU/logo-without-title.svg" height="14"/> [LongPort OpenAPI](https://github.com/longportapp/openapi/tree/main/mcp)<sup><sup>⭐</sup></sup> - Provides real-time stock market data, provides AI access analysis and trading capabilities through MCP.
 - <img src="https://zbd.gg/favicon.ico" height="14"/> [ZBD](https://github.com/zebedeeio/zbd-payments-typescript-sdk/tree/main/packages/mcp-server)<sup><sup>⭐</sup></sup> - Interact with ZBD's payment processing APIs for instant global payments with Bitcoin and Lightning Network
 
+- [Inferventis](https://inferventis.ai) - Live financial data MCP: real-time FX rates, stock quotes, crypto prices (10,000+ coins), Open Banking (PSD2/TrueLayer), Stripe payment data, financial calculations. Built-in `tool_finder` semantic discovery. Pay-per-call via x402 micropayments on Base ($0.001 USDC). ☁️
 <br />
 
 ## 🧬 <a name="research-data"></a>Research & Data
